@@ -12,7 +12,7 @@ This project enables users to visualize Walmart sales data by selecting a target
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ZaidSlimane/FetchFromCSV.git
     ```
 
 2. Navigate to the project directory:
